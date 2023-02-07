@@ -8,6 +8,8 @@ It's always good to test the contract methods on etherscan before writing the co
 - Interacting with wallet: Connect, Read Network, Change Network.
 - Interacting with contract (example: tokenURI in tiny dinos contract)
 
+![features](GIF.gif)
+
 ## How to use
 
 In the project directory, run:
